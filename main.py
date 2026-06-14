@@ -7,7 +7,6 @@
 import csv
 import os
 
-
 ARCHIVO = "datos.csv"
 
 
@@ -380,7 +379,7 @@ def modificacion():
         print("\nNo se encontró el país.")
 
 # --------------------------------------------------
-# MODIFICACION DE PAISES NUEVOS
+# BUSQUEDA DE PAISES EN LISTADO
 # --------------------------------------------------
 
 def busqueda():
