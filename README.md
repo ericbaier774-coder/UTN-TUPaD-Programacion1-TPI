@@ -2,7 +2,9 @@
 
 **Universidad Tecnológica Nacional — Tecnicatura Universitaria en Programación**
 Materia: Programación I | Año: 2026 | Docente Tutor: Cinthia Rigoni
-LINK VIDEO: https://youtu.be/WXtZsZ4dIts
+
+---
+## LINK VIDEO: https://youtu.be/WXtZsZ4dIts
 
 ---
 
